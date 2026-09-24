@@ -1,4 +1,4 @@
-%% Double every number in a vector
+%% Double every number in a vector jjjjjjjjjjjjjjjjjjjj
 nums = [1 2 3 4 5];
 doubled = nums * 2;
 disp(doubled)
